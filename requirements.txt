@@ -1,0 +1,5 @@
+gradio>=3.0
+tensorflow>=2.8
+numpy>=1.21
+pillow>=9.0
+matplotlib>=3.5
